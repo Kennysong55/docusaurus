@@ -11,8 +11,7 @@ A plugin is a function that takes two parameters: `context` and `options`. It re
 You can use a plugin as a function directly included in the Docusaurus config file:
 
 ```js title="docusaurus.config.js"
-module.exports = {
-  // ...
+module.exports =  good thing.....
   plugins: [
     // highlight-start
     async function myPlugin(context, options) {
