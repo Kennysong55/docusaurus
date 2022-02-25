@@ -127,7 +127,7 @@ export const Tags: Record<TagType, Tag> = {
   meta: {
     label: 'Meta',
     description: 'Docusaurus sites of Meta (formerly Facebook) projects',
-    color: '#4267b2', // Facebook blue
+    color: '#4267b2', // Facebook blue upper
   },
 
   personal: {
